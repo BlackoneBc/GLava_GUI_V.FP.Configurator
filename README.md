@@ -1,1 +1,1 @@
-Make shure to install GLava via: "yay -S Glava" before using the Application
+Make shure to install GLava before the install via: "yay -S Glava" before using the Application
